@@ -1,0 +1,39 @@
+{
+    "malls": [
+        {
+            "id": 1,
+            "name": "Lucky Chinatown Mall",
+            "location": [14.603721661116088, 120.97394106061796],
+            "desc": "Chinese Mall",
+            "type": "lcm"
+        },
+        {
+            "id": 2,
+            "name": "Robinsons Place Manila",
+            "location": [14.576097077975634, 120.98400317101299],
+            "desc": "Old Mall with a Nice Grocery",
+            "type": "robinsons"
+        }, 
+        {
+            "id": 3,
+            "name": "SM Manila",
+            "location": [14.590256198374277, 120.98311536915831],
+            "desc": "Relatively Old Mall. Has a large food court.",
+            "type": "sm"
+        },
+        {
+            "id": 4,
+            "name": "Landers Superstore Otis",
+            "location": [14.590718806338801, 120.99934608264928],
+            "desc": "Grocery Store for Imported Products.",
+            "type": "landers"
+        },  
+        {
+            "id": 5,
+            "name": "Robinsons Magnolia",
+            "location": [14.615191776897147, 121.03812406915853],
+            "desc": "Premium Mall. Has a food court that spans a whole floor.",
+            "type": "robinsons"
+        }     
+    ]    
+}
